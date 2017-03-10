@@ -6,3 +6,4 @@ int main(){
     weight > 115?printf("Flyweight"):weight==110:printf("jhbvdb");
 }
 //hi
+//hello
