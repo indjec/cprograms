@@ -5,3 +5,4 @@ int main(){
     scanf("%d", &weight);
     weight > 115?printf("Flyweight"):weight==110:printf("jhbvdb");
 }
+//hi
